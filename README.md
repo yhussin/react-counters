@@ -30,8 +30,6 @@ Look at this [deployed version of the application](http://react-counter.surge.sh
 <details>
   <summary><strong>Open to see the components</strong></summary>
 
-  ![](./images/react-counter-annotated.png)
-
 Here we've identified four components on the home page:
   1. The top level component, which we'll call `App`, is boxed in red
   2. The header component, a sub-component of `App`, is boxed in purple. We'll call it `Header`
