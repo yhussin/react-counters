@@ -200,7 +200,7 @@ Our task here is to find the proper place for each part of our application's sta
 
 Lets start with our `Counter` component. Right now, it doesn't have any state and it isn't passed any props. What we want is for the `Counter` component to keep track of the count in state. Then, whenever someone clicks one of the two buttons we'll increase or decrease that number.
 
-### We Do: Update our `Counter` Component
+### You Do: Update our `Counter` Component
 
 Lets update the `Counter` component so that it is using state to track the count internally and clicking one of the buttons changes the `count` number.
 
