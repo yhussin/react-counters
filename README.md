@@ -7,7 +7,7 @@ For this exercise, we are going to build a React app from scratch that will serv
 Go ahead and clone [this repo](https://git.generalassemb.ly/SF-SEI-9/react-counters) now. This will be the code we start with.
 
 ```bash
-$ git clone https://git.generalassemb.ly/SF-SEI-9/react-counters
+$ git clone https://git.generalassemb.ly/SF-SEI-10/react-counters
 $ cd react-counters
 $ npm update
 $ npm install
